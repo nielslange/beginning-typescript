@@ -9,7 +9,7 @@ This is my personal trainings repo regarding https://laracasts.com/series/beginn
 - [Arrays and Tuples](/03)
 - [Literals and Enums](/04)
 - [Void and Null](/05)
-- Any and Unkown
+- [Any and Unkown](/06)
 - Interfaces and Type Aliases
 - Unions and Intersections
 - Never
