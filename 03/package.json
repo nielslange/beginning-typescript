@@ -1,0 +1,24 @@
+{
+  "name": "beginning-typescript",
+  "version": "1.0.0",
+  "description": "This is my personal trainings repo regarding https://laracasts.com/series/beginning-typescript/.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nielslange/beginning-typescript.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nielslange/beginning-typescript/issues"
+  },
+  "homepage": "https://github.com/nielslange/beginning-typescript#readme",
+  "devDependencies": {
+    "typescript": "4.5.4"
+  },
+  "scripts": {
+    "build": "node_modules/typescript/bin/tsc"
+  }
+}

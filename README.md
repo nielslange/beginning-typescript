@@ -6,7 +6,7 @@ This is my personal trainings repo regarding https://laracasts.com/series/beginn
 
 - [Hello, TypeScript](/01)
 - [Understanding the Type System](/02)
-- Arrays and Tuples
+- [Arrays and Tuples](/03)
 - Literals and Enums
 - Void and Null
 - Any and Unkown
